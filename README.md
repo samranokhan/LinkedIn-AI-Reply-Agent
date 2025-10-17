@@ -1,5 +1,4 @@
-# LinkedIn-AI-Reply-Agent
-🤖 An AI-powered LinkedIn reply generator built with Streamlit and Groq (Llama 3)
+
 # 💬 LinkedIn AI Reply Agent
 
 🤖 An AI-powered assistant that helps you write professional, friendly, and human-like **LinkedIn message replies** automatically.  
